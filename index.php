@@ -25,7 +25,7 @@ if(isset($_POST['submit'])){
     <link rel="stylesheet" href="resources/css/all.min.css">
     <script src="resources/js/all.min.js"></script>
     <script src="resources/js/bootstrap.bundle.min.js"></script>
-    <link rel="shortcut icon" href="images/logo.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
 </head>
 <body>
 <div class="container-fluid mt-5">
@@ -35,7 +35,7 @@ if(isset($_POST['submit'])){
             </div>
             <div class="col-sm-5 mt-5 border rounded p-5 ms-5">
                   <div class="nav-brand">
-               <center><img src="images/user.jpg" alt="Avatar Logo" style="width:120px;" class="rounded-pill"> </center>   
+               <center><img src="images/user.png" alt="Avatar Logo" style="width:120px;" class="rounded-pill"> </center>   
                   </div>
                 <form method="post">
                     <?php
